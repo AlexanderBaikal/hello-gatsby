@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[682],{5465:function(e,t,a){a.r(t);var u=a(7294),l=a(9803),r=a(262);t.default=function(){return u.createElement(l.Z,null,u.createElement(r.Z,{title:"About"}),u.createElement("h1",{className:"about"},"About"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-88b90713726b5d6af983.js.map
